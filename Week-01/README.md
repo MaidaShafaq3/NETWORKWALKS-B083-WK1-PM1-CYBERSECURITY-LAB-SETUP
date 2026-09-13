@@ -269,8 +269,6 @@ can indicate a problem with the system's virtualization configuration.
 
 ## 2. Kali Linux Internet Connectivity Issue
 
-### 2. Kali Linux Internet Connectivity Issue
-
 After configuring the Kali Linux network, I encountered an Internet connectivity issue. This is a known issue mentioned in the lab guide for VirtualBox 7 and newer Kali Linux versions.
 
 The NAT Network and IP configuration were already configured, but Kali Linux was still unable to access the Internet.
